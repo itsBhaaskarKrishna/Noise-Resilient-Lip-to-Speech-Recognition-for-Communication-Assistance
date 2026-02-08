@@ -70,5 +70,3 @@ Both datasets are **publicly available** and widely used in **lip-reading resear
 ## Authors
 **Bhaaskar Krishna**, Nikhil S. Tengli, Harsh Chauhan,  
 G. L. Meghana, Shreeshail S. Y  
-
-**REVA University**, Bangalore
